@@ -1,0 +1,102 @@
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\TOFI\Desktop\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.modificar_paciente.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.CitasGenerales.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Especialista.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Modificar_Especialista.resources
+C:\Users\meam5\OneDrive\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Citas.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Citas.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Especialista.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.CitasGenerales.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Modificar_Especialista.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.modificar_paciente.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\TOFI\Desktop\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Citas.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Especialista.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Servicio.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.CitasGenerales.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Modificar_Especialista.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.modificar_paciente.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Actualizar_Precio_servicio.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Diagnostico.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Usuario.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Cambiar_Contraseña.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.login.resources
+C:\Users\hralonso\OneDrive - Motores Hino de Guatemala\Escritorio\Proyecto Consulta Medica\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Historial.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.exe
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.pdb
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe.config
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.exe
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\bin\Debug\Consulta_Hospital.pdb
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Actualizar_Precio_servicio.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Citas.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Especialista.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Servicio.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Agregar_Usuario.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Cambiar_Contraseña.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.CitasGenerales.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Diagnostico.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Historial.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.login.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.Modificar_Especialista.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.modificar_paciente.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Principal.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.Vistas.VAgregarPaciente.resources
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\Consulta_Hospital\Consulta_Hospital\obj\Debug\Consulta_Hospital.csproj.CoreCompileInputs.cache

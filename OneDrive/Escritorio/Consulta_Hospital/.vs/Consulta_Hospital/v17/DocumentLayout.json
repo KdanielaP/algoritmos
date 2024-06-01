@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|c:\\users\\danie\\onedrive\\escritorio\\consulta_hospital\\consulta_hospital\\controladores\\cusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\cusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\cservicio_medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\cservicio_medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\cagregar_pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\cagregar_pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\ccita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\ccita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\cdiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\cdiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\cespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\cespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\consulta_hospital\\controladores\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FCE4BB-201C-4592-9484-B8D16145FAA3}|Consulta_Hospital\\Consulta_Hospital.csproj|solutionrelative:consulta_hospital\\controladores\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\Reportes.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\Reportes.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\Reportes.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\Reportes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:57.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CUsuarios.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CUsuarios.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CUsuarios.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CUsuarios.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAIAwwAoBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CServicio_Medico.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CServicio_Medico.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CServicio_Medico.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CServicio_Medico.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CServicio_Medico.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:48.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CEspecialista.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CEspecialista.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CEspecialista.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CEspecialista.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CEspecialista.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:40.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDiagnostico.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CDiagnostico.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CDiagnostico.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CDiagnostico.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CDiagnostico.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCita.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CCita.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CCita.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CCita.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CCita.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CAgregar_Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CAgregar_Pacientes.cs",
+              "RelativeDocumentMoniker": "Consulta_Hospital\\Controladores\\CAgregar_Pacientes.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Consulta_Hospital\\Consulta_Hospital\\Controladores\\CAgregar_Pacientes.cs",
+              "RelativeToolTip": "Consulta_Hospital\\Controladores\\CAgregar_Pacientes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:51:17.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68FCE4BB-201C-4592-9484-B8D16145FAA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Consulta_Hospital</RootNamespace>
+    <AssemblyName>Consulta_Hospital</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controladores\CAgregar_Pacientes.cs" />
+    <Compile Include="Controladores\CCita.cs" />
+    <Compile Include="Controladores\CDiagnostico.cs" />
+    <Compile Include="Controladores\CEspecialista.cs" />
+    <Compile Include="Controladores\CServicio_Medico.cs" />
+    <Compile Include="Controladores\CUsuarios.cs" />
+    <Compile Include="Controladores\Reportes.cs" />
+    <Compile Include="Modelos\Detalle_Diagnostico.cs" />
+    <Compile Include="Modelos\MDiagnostico.cs" />
+    <Compile Include="Modelos\MCita.cs" />
+    <Compile Include="Modelos\MEspecialista.cs" />
+    <Compile Include="Modelos\Servicio_medico.cs" />
+    <Compile Include="Modelos\Usuarios.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Actualizar_Precio_servicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Actualizar_Precio_servicio.Designer.cs">
+      <DependentUpon>Actualizar_Precio_servicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Citas.Designer.cs">
+      <DependentUpon>Agregar_Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Especialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Especialista.Designer.cs">
+      <DependentUpon>Agregar_Especialista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Servicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Servicio.Designer.cs">
+      <DependentUpon>Agregar_Servicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Agregar_Usuario.Designer.cs">
+      <DependentUpon>Agregar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Cambiar_Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Cambiar_Contraseña.Designer.cs">
+      <DependentUpon>Cambiar_Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\CitasGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\CitasGenerales.Designer.cs">
+      <DependentUpon>CitasGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Diagnostico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Diagnostico.Designer.cs">
+      <DependentUpon>Diagnostico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Historial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Historial.Designer.cs">
+      <DependentUpon>Historial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Modificar_Especialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Modificar_Especialista.Designer.cs">
+      <DependentUpon>Modificar_Especialista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\modificar_paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\modificar_paciente.Designer.cs">
+      <DependentUpon>modificar_paciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\MAgregar_Paciente.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vistas\VAgregarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\VAgregarPaciente.Designer.cs">
+      <DependentUpon>VAgregarPaciente.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Actualizar_Precio_servicio.resx">
+      <DependentUpon>Actualizar_Precio_servicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Agregar_Citas.resx">
+      <DependentUpon>Agregar_Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Agregar_Especialista.resx">
+      <DependentUpon>Agregar_Especialista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Agregar_Servicio.resx">
+      <DependentUpon>Agregar_Servicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Agregar_Usuario.resx">
+      <DependentUpon>Agregar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Cambiar_Contraseña.resx">
+      <DependentUpon>Cambiar_Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\CitasGenerales.resx">
+      <DependentUpon>CitasGenerales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Diagnostico.resx">
+      <DependentUpon>Diagnostico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Historial.resx">
+      <DependentUpon>Historial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Modificar_Especialista.resx">
+      <DependentUpon>Modificar_Especialista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\modificar_paciente.resx">
+      <DependentUpon>modificar_paciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\VAgregarPaciente.resx">
+      <DependentUpon>VAgregarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_360513715_BEbDvSencBZV1KrQtOf8k2RX91T70pq2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chequeo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paciente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edificio-del-hospital.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cita-medica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paciente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-escoba-48.png" />
+    <None Include="Resources\login24.png" />
+    <None Include="Resources\Login23.png" />
+    <None Include="Resources\log-in %282%29.png" />
+    <None Include="Resources\log-in %281%29.png" />
+    <None Include="Resources\log-in.png" />
+    <None Include="Resources\seguro.png" />
+    <None Include="Resources\perfil %281%29.png" />
+    <None Include="Resources\login2.jpg" />
+    <None Include="Resources\Puertas.jpg" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\Modificar_Usuario.png" />
+    <None Include="Resources\agregar-usuario3.png" />
+    <None Include="Resources\agregar-usuario2.png" />
+    <None Include="Resources\fadf.png" />
+    <None Include="Resources\usuario %281%29.png" />
+    <None Include="Resources\editar-perfil.png" />
+    <None Include="Resources\agregar-usuario1.png" />
+    <None Include="Resources\intimidad %281%29.png" />
+    <None Include="Resources\intimidad.png" />
+    <None Include="Resources\Diagnostico.jpg" />
+    <None Include="Resources\hospital.png" />
+    <None Include="Resources\edificio-del-hospital1.png" />
+    <None Include="Resources\servicio1.jpg" />
+    <None Include="Resources\servicios3.jpg" />
+    <None Include="Resources\servicios1.png" />
+    <None Include="Resources\servicios.png" />
+    <None Include="Resources\servicios2.jpg" />
+    <None Include="Resources\paciente2.png" />
+    <None Include="Resources\servicios.jpg" />
+    <None Include="Resources\ser.jpg" />
+    <None Include="Resources\servicio.jpg" />
+    <None Include="Resources\c19f045d24372080009868067d6e8fe8.jpg" />
+    <None Include="Resources\agregar7.png" />
+    <None Include="Resources\lupa.png" />
+    <None Include="Resources\agregar %281%29.png" />
+    <None Include="Resources\106185234-equipo-médico-sobre-un-fondo-rosa-pastel %281%29.jpg" />
+    <None Include="Resources\agregar %282%29.png" />
+    <None Include="Resources\9131696.jpg" />
+    <None Include="Resources\agregar %282%291.png" />
+    <Content Include="Resources\agregar-usuario %281%29.png" />
+    <None Include="Resources\editar.png" />
+    <None Include="Resources\doctor.png" />
+    <None Include="Resources\limpieza-de-datos.png" />
+    <None Include="Resources\agregar-usuario %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
